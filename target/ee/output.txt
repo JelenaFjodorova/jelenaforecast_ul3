@@ -1,0 +1,5 @@
+Today is: 2017-11-06T17:44:31.902Сurrent temperature is: 9.8
+Forecast for three days: The date is 2017-11-07 Maximum temperature is: 10.84 Minimum temperature is: 2.81
+The date is 2017-11-08 Maximum temperature is: 8.05 Minimum temperature is: 4.49
+The date is 2017-11-09 Maximum temperature is: 9.63 Minimum temperature is: 2.8
+Latitude: , Longitude:51.51-0.13
